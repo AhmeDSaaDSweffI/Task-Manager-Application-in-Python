@@ -197,7 +197,7 @@ This project was proudly built by a two-person team during the **Samsung Innovat
 
 | Member | Connect |
 | :----- | :------ |
-| **Alaa Ashraf Abd Elkreem** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-ashraf-abd-elkreem/) |
+| **Alaa Ashraf** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-ashraf-abd-elkreem/) |
 | **Ahmed Saad Sweffi** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-saad-sweffi-09b2751a9) |
 
 ---
