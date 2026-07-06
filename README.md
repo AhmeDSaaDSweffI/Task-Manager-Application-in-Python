@@ -12,6 +12,10 @@ Create, track, and organize **Personal** and **Work** tasks straight from your t
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-blueviolet?style=for-the-badge)
 
+![Samsung Innovation Campus](https://img.shields.io/badge/Samsung%20Innovation%20Campus-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+
+> 🎓 Developed as part of the **Samsung Innovation Campus** program.
+
 ![Task Manager Screenshot](https://github.com/user-attachments/assets/96d7c4a1-2d07-41bd-b292-cf13e90cc23e)
 
 </div>
@@ -23,6 +27,8 @@ Create, track, and organize **Personal** and **Work** tasks straight from your t
 **Task Manager Application in Python** is a lightweight command-line interface (CLI) tool for managing your daily to-dos. Rather than reaching for a heavyweight framework, it's built from the ground up with pure Python and the standard library — making it a great reference for anyone learning how **Object-Oriented Programming** translates into a working application.
 
 At its core, a single `Task` base class defines shared behavior, while `PersonalTask` and `workTask` **inherit** from it and extend it with their own attributes. This showcases **inheritance** and **polymorphism** in a practical, easy-to-follow way. All your tasks are transparently saved to a local `data.json` file, so your list survives across runs — no database required.
+
+This project was built by a two-person team as part of the **Samsung Innovation Campus** program — a global initiative by Samsung that equips learners with hands-on skills in software development and emerging technologies.
 
 ---
 
@@ -185,6 +191,23 @@ Don't forget to give the project a ⭐ if you found it useful!
 
 ---
 
+## 👥 Team
+
+This project was proudly built by a two-person team during the **Samsung Innovation Campus** program:
+
+| Member | Connect |
+| :----- | :------ |
+| **Alaa Ashraf Abd Elkreem** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-ashraf-abd-elkreem/) |
+| **Ahmed Saad Sweffi** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-saad-sweffi-09b2751a9) |
+
+---
+
+## 🙏 Acknowledgments
+
+- 🎓 **[Samsung Innovation Campus](https://www.samsung.com/global/sic/)** — for the training, mentorship, and platform that made this project possible.
+
+---
+
 ## 📄 License
 
 Distributed under the **MIT License**. See the `LICENSE` file for more information.
@@ -193,6 +216,6 @@ Distributed under the **MIT License**. See the `LICENSE` file for more informati
 
 <div align="center">
 
-Made with ❤️ and 🐍 Python
+Made with ❤️ and 🐍 Python — as part of the **Samsung Innovation Campus** 🎓
 
 </div>
